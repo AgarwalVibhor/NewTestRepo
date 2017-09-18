@@ -1,1 +1,3 @@
 A sixth file has been added in the feature branch.
+
+Changes have been made in this file in the feature branch.
