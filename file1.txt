@@ -1,0 +1,7 @@
+This is the first file that has been created.
+
+It needs to be tracked of.
+
+It is a temporary file.
+
+It is an example for demonstration.
