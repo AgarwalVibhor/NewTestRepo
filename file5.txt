@@ -1,0 +1,3 @@
+This is the sample file that has been created in the feature branch.
+
+It is just used for the sample purpose.
