@@ -1,3 +1,1 @@
 A sixth file has been added in the feature branch.
-
-Change to be reverted has been added in this file.
