@@ -1,5 +1,7 @@
-This is the seconf file that has been created.
+This is the second file that has been created.
 
 I am just using this file as an example.
 
 There can be multiple ways of using this.
+
+Certain changes have been made in the second file in the feature branch.
