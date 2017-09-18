@@ -2,6 +2,8 @@ This is the first file that has been created.
 
 It needs to be tracked of.
 
-It is a temporary file.
+It is a temporary file. A change has been made in the existing line in the feature branch.
 
 It is an example for demonstration.
+
+This is a new line that has been added in the file1 in feature branch.

@@ -2,4 +2,6 @@ This is the third file that has been created.
 
 Tortoise Git has been used for the UI interaction.
 
-Gitr Bash is good but nobody wants to remember the commands.
+Git Bash is good but nobody wants to remember the commands.
+
+This is a new line that has been added in the file3 in the feature branch.
